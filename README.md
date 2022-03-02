@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuperHapyFunTime or you can call me Dan!
-- 👀 I’m interested in full stack deveopment and building useful things. Im a big fan of serverless tech!
+- 👀 I’m interested in full stack development and building useful things. Im a big fan of serverless tech!
 - 🌱 I’m currently learning CDK
 
 <!---
